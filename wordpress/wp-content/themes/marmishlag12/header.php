@@ -1,4 +1,13 @@
-<nav class="bg-white shadow dark:bg-gray-800">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php wp_head(); ?>
+</head>
+<body>
+    <nav class="bg-white shadow dark:bg-gray-800">
         <div class="container px-6 py-4 mx-auto">
             <div class="md:flex md:items-center md:justify-between">
                 <div class="flex items-center justify-between">
